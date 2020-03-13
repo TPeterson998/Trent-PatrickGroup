@@ -1,7 +1,9 @@
 body{
-    border-width:5px;
-body {
     background-image: url(img/Background.jpg);
+  
+}
+section#everything{
+margin: 2.5em;
 }
 img#logo{
 position: absolute;
