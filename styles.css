@@ -14,7 +14,16 @@ ul {
 }
 
 img.product {
+    width: 16em;
+    float: left;
+}
+
+img.product2 {
     width: 13em;
+    float: left;
+}
+
+figcaption {
     float: left;
 }
 
