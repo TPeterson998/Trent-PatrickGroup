@@ -1,6 +1,5 @@
 body{
     border-width:5px;
-body {
     background-image: url(img/Background.jpg);
 }
 img#logo{
@@ -9,6 +8,16 @@ left: 1%;
 bottom: 1%;
 width: 15em;
 }
+
+ul {
+    list-style: none;
+}
+
+img.product {
+    width: 13em;
+    float: left;
+}
+
 div#columns{
     column-count: 2;
     column-width: 50%;
