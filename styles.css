@@ -3,12 +3,12 @@ body{
   
 }
 section#everything{
-margin: 2.5em;
+margin: 3em;
 }
 img#logo{
 position: absolute;
-left: 1%;
-bottom: 1%;
+right: 20%;
+top: .01%;
 width: 15em;
 }
 
