@@ -1,9 +1,14 @@
+body{
+    border-width:5px;
 body {
     background-image: url(img/Background.jpg);
 }
-
-
-
+img#logo{
+position: absolute;
+left: 1%;
+bottom: 1%;
+width: 15em;
+}
 div#columns{
     column-count: 2;
     column-width: 50%;
