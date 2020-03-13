@@ -1,5 +1,11 @@
-html{
-    margin-top: -4em;
+body{
+    border-width:5px;
+}
+img#logo{
+position: absolute;
+left: 1%;
+bottom: 1%;
+width: 15em;
 }
 div#columns{
     column-count: 2;
