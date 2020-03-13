@@ -16,13 +16,32 @@ ul {
     list-style: none;
 }
 
-img.product2 {
+h1 {
+    color: white;
+    font-size: 2.7em;
+    -webkit-text-stroke: blue 2px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.1em;
+    -webkit-text-stroke: lightblue .25px;
+}
+
+img.product {
     width: 13em;
     float: left;
 }
 
+img.product2 {
+    width: 13em;
+    float: right;
+}
+
 figcaption {
-    float: left;
+    float: center;
+    display: block;
 }
 
 div#columns{
