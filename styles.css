@@ -16,11 +16,6 @@ ul {
     list-style: none;
 }
 
-img.product {
-    width: 16em;
-    float: left;
-}
-
 img.product2 {
     width: 13em;
     float: left;
@@ -33,4 +28,11 @@ figcaption {
 div#columns{
     column-count: 2;
     column-width: 50%;
+}
+div#shop {
+    column-count: 5;
+    font: bolder;
+}
+p#price { 
+    margin-left: 1em;
 }
