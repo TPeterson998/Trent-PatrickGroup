@@ -1,3 +1,8 @@
+body {
+    background-image: url(img/Background.jpg);
+}
+
+
 
 div#columns{
     column-count: 2;
