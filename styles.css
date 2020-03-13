@@ -1,3 +1,8 @@
+/* Patrick mostly took helm with the stylesheet styles here, this even includes the text that Trent did such as the <h1>'s and <p> tags. */
+
+/* CSS is surprisngly very important in the structuring of a website as well when it comes to the box sizing in OOP, so the addition
+of all the floating styles as well as sizing is curcial to cooperate with in tandom with a partner. */
+
 body{
     background-image: url(img/Background.jpg);
   
@@ -28,6 +33,9 @@ div p {
     font-size: 1.1em;
     -webkit-text-stroke: lightblue .25px;
 }
+
+/* Innevitably, class and tags also found great use in targetting specific sections of elements which we didn't want to reflect on
+the entire document. This includes the products for the shoping section and the two distinct columns.   */
 
 img.product {
     width: 13em;
