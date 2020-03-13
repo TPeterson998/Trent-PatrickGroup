@@ -6,4 +6,5 @@ body {
 
 div#columns{
     column-count: 2;
+    column-width: 50%;
 }
